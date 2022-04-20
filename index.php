@@ -174,7 +174,7 @@
                     <footer  class="blockquote-footer">Ali Bin Abi Thalib</footer>
                     </blockquote><br>
             <hr>
-            <img src="Assets/img/index1.png" class="rounded float-left" width="250px"> 
+            <img src="Assets/img/index2.png" class="rounded float-left" width="250px"> 
                 <h1>Membuat Layout Satu Kolom</h1><br>
                 <p> “Bila engkau hendak memuji seseorang, pujilah Allah. 
                     Karena tiada seorang manusia pun lebih banyak dalam memberi kepadamu dan lebih santun 
@@ -183,7 +183,7 @@
                     <footer  class="blockquote-footer">Ali Bin Abi Thalib</footer>
                     </blockquote><br>
             <hr>
-            <img src="Assets/img/index1.png" class="rounded float-left" width="250px"> 
+            <img src="Assets/img/index3.png" class="rounded float-left" width="250px"> 
                 <h1>Membuat Layout Satu Kolom</h1><br>
                 <p> “Bila engkau hendak memuji seseorang, pujilah Allah. 
                     Karena tiada seorang manusia pun lebih banyak dalam memberi kepadamu dan lebih santun 
@@ -192,7 +192,16 @@
                     <footer  class="blockquote-footer">Ali Bin Abi Thalib</footer>
                     </blockquote><br>
             <hr>
-            <img src="Assets/img/index1.png" class="rounded float-left" width="250px"> 
+            <img src="Assets/img/index4.png" class="rounded float-left" width="250px"> 
+                <h1>Membuat Layout Satu Kolom</h1><br>
+                <p> “Bila engkau hendak memuji seseorang, pujilah Allah. 
+                    Karena tiada seorang manusia pun lebih banyak dalam memberi kepadamu dan lebih santun 
+                    lembut kepadamu selain Allah.”</p>
+                    <blockquote class="blockquote text-right">
+                    <footer  class="blockquote-footer">Ali Bin Abi Thalib</footer>
+                    </blockquote><br>
+            <hr>
+            <img src="Assets/img/index4.png" class="rounded float-left" width="250px"> 
                 <h1>Membuat Layout Satu Kolom</h1><br>
                 <p> “Bila engkau hendak memuji seseorang, pujilah Allah. 
                     Karena tiada seorang manusia pun lebih banyak dalam memberi kepadamu dan lebih santun 
